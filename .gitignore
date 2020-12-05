@@ -1,5 +1,5 @@
 *
-!/*/
+!/**/
 !.gitignore
 !*.md
 
@@ -8,3 +8,9 @@
 
 # Zig
 !*.zig
+
+# elixir
+!*.ex
+!*.exs
+_build
+.elixir_ls
