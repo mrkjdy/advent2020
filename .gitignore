@@ -17,3 +17,9 @@ _build
 
 # TypeScript
 !*.ts
+
+# Rust
+!*.rs
+!*.toml
+!*.lock
+target
